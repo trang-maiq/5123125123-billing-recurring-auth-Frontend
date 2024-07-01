@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "TechSharingMeetup 2024 is coming up on June 7 – 9 in Denver. Join us for three days of inspirational talks and networking.",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Our platform solves the pain points of limited knowledge sharing by connecting people effortlessly. Experience an easy-to-use and learn interface designed to inspire and empower you.",
+        "title": "Enrich Your Knowledge with Yay's Technical Sharing Blog"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Ignite Your Imagination with Yay"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "description": "With over 8,000 creators and a flat platform fee of just 3%, our Technical Sharing Blog is dedicated to providing a seamless and rewarding experience. 95% of our users report satisfaction with the knowledge they gain, and we have paid out $70 million to creators! Plus, we guarantee 99.9% uptime. Join us and be inspired to share your expertise.",
+        "title": "Trusted by creators worldwide"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Ignite Your Imagination with Yay"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Ignite Your Imagination with Yay"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Ignite Your Imagination with Yay"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Minds Through Inspiring Technical Insights",
+        "title": "Ignite Your Imagination with Yay"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Ignite Your Imagination with Yay",
+  "subtitle": "Empowering Minds Through Inspiring Technical Insights"
+}
